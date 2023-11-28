@@ -1,5 +1,5 @@
 <?php
-$arr1 = ['EVO 80'];       ddf
+$arr1 = ['EVO 80'];       ddf ddfdf
 $arr2 = ['Delevan'];
 $notfound = [];
 foreach ($arr1 as $key => $value) {
